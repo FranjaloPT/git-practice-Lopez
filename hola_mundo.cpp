@@ -9,7 +9,7 @@ int main(){
 	cout<<"Ahora me movi a Github"<<endl;
 	/*Me salté el Hack 3 porque no pude con eso, no lo entendí. Los demás me han costado algo
 	Pero me he guiado con videos de Youtube y tutoriales en el navegador. Espero me ayuden*/
-	//Ya me estresé
+	//Nuevo intento
 	return 0;
 	
 }
